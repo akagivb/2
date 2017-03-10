@@ -1,0 +1,13 @@
+Source code - Files in PHPWebProject 
+
+Full database dump -wapiBackUp.sql
+
+Expected database name (can be changed in config.php) : wapi
+
+Usernames and passwords for website:
+
+admin	qwerty123
+user1	pass123
+user2	asdf123
+
+Website can be accessed from main.php
